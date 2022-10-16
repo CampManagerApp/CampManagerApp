@@ -1,4 +1,4 @@
 # CampManager App
 
 ### Wiki:
-https://scythe-channel-f03.notion.site/CampManager-Home-af88102b30bc45a89a65e4697cd07bc2
+https://www.notion.so/galajat/6e61df28f0254ae88c8ea5cda4aa13cc?v=6eacf437c56141e093337db6228b7105
